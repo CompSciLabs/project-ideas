@@ -7,3 +7,4 @@ A list of project ideas.
 | Instagram Image Collection | An application that, given a hashtag, will grab the images associated with them and store them in a chosen location (i.e dropbox,drive,local storage) | Unsure|
 | netPA v2 | An application which discovers users personal data online and relies via app/web browers | Java, XCode, node.js, general Web|
 | Student Budget Calculator | An android application to help students budget per week of each term | Java|
+| Firebird Studios App | android/ios app for making bookings and tracking studio availability | Android, java, Xamarin, Swift| 
